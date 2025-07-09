@@ -54,9 +54,9 @@ Atendemos clientes que desejam profissionalizar e automatizar seus servidores e 
 
 ## 📈 Minhas estatísticas
 
-![Estatísticas](https://hype-stats-git-main-leogimanu2s-projects.vercel.app/api?username=Leogimanu2&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![Estatísticas](https://hype-stats-git-main-leogimanu2s-projects.vercel.app/api?username=Leogimanu2&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
 
-![Linguagens](https://hype-stats-git-main-leogimanu2s-projects.vercel.app/api/top-langs/?username=Leogimanu2&layout=compact&theme=radical)
+![Linguagens](https://hype-stats-git-main-leogimanu2s-projects.vercel.app/api/top-langs/?username=Leogimanu2&layout=compact&theme=dark)
 
 ---
 
